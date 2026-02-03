@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<title>บริษัทรับเหมาก่อสร้าง</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body{margin:0;font-family:Arial,sans-serif;color:#222}
+header{background:#111;color:#fff;padding:60px 20px;text-align:center}
+header h1{margin:0;font-size:2.5em}
+header p{margin-top:10px;color:#ccc}
+section{padding:50px 20px;max-width:1100px;margin:auto}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px}
+.card{border:1px solid #eee;padding:20px;border-radius:6px}
+footer{background:#111;color:#aaa;text-align:center;padding:20px}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>บริษัทรับเหมาก่อสร้างครบวงจร</h1>
+  <p>งานคุณภาพ มาตรฐานมืออาชีพ ส่งมอบตรงเวลา</p>
+</header>
+
+<section>
+  <h2>บริการของเรา</h2>
+  <div class="grid">
+    <div class="card">🏗 รับเหมาก่อสร้าง</div>
+    <div class="card">🏠 ต่อเติม / รีโนเวท</div>
+    <div class="card">📐 งานโครงสร้าง</div>
+    <div class="card">📋 ควบคุมงานก่อสร้าง</div>
+  </div>
+</section>
+
+<section>
+  <h2>ทำไมต้องเลือกเรา</h2>
+  <div class="grid">
+    <div class="card">ประสบการณ์งานก่อสร้าง</div>
+    <div class="card">ทีมงานมืออาชีพ</div>
+    <div class="card">ควบคุมงบประมาณ</div>
+    <div class="card">ส่งมอบงานตรงเวลา</div>
+  </div>
+</section>
+
+<section>
+  <h2>ติดต่อเรา</h2>
+  <p>โทร: 0X-XXXX-XXXX</p>
+  <p>Line: @yourline</p>
+</section>
+
+<footer>
+  © 2026 บริษัทก่อสร้าง
+</footer>
+
+</body>
+</html>
